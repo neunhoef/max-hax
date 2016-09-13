@@ -19,5 +19,3 @@ This means I can simply write in *AsciiDoc*, commit in *git* and be done.
 This blog post describes the workflow used to do it:
 
 * http://mgreau.com/posts/2016/03/28/asciidoc-to-gh-pages-with-travis-ci-docker-asciidoctor.html
-
-Some modification.
