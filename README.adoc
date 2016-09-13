@@ -1,0 +1,22 @@
+= Max hax - a blog on all things related to computers
+
+:link-github-project-ghpages: https://neunhoef.github.io/max-hax
+:link-demo-html: {link-github-project-ghpages}/demo.html
+:link-demo-pdf: {link-github-project-ghpages}/demo.pdf
+:link-demo-adoc: https://raw.githubusercontent.com/neunhoef/max-hax/master/demo.adoc
+:cover-asciidoc-ghpages: https://mgreau.com/posts/images/cover-asciidoc-ghpages.svg
+
+This page was written in *AsciiDoc*, converted to *HTML/PDF* using
+*Travis CI, Asciidoctor and Docker* and published via *gh-pages*. 
+
+This means I can simply write in *AsciiDoc*, commit in *git* and be done.
+
+* Asciidoctor Demo file:
+** {link-demo-adoc}[AsciiDoc source file]
+** {link-demo-html}[HTML output file]
+** {link-demo-pdf}[PDF output file]
+
+This blog post describes the workflow used to do it:
+
+* http://mgreau.com/posts/2016/03/28/asciidoc-to-gh-pages-with-travis-ci-docker-asciidoctor.html
+
