@@ -1,0 +1,14 @@
+= *Max hax* - a blog on all things related to computers
+
+:ghpages: https://neunhoef.github.io/max-hax
+
+On this blog I publish interesting things about computers that I stumble
+upon. My personal interests cover but are not limited to
+
+* *Databases*, in particular https://arangodb.com[ArangoDB], of which I am
+  one of the main developers and architects.
+* *Linux*, which I use exclusively for my computers at the moment.
+* *C/C++*, which is the programming language I use most these days
+* *Performance*, in particular of algorithms and implementations on
+  multi-core and multi-host systems
+* etc. 
